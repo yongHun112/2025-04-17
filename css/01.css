@@ -326,3 +326,12 @@ h2 {
     }
 
 }
+
+
+
+@media screen and (max-width: 460px) {
+    
+    .section-02 .inner .item_wrap .item {
+        width: 100%;
+    }
+}
