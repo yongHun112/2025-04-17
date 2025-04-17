@@ -330,7 +330,24 @@ h2 {
 
 
 @media screen and (max-width: 460px) {
-    
+
+    .section-02 {
+        padding: 0;
+    }
+
+    .section-01 .inner .item_wrap .left_box .image {
+
+        height: 37.91vw;
+
+
+    }
+
+    .section-01 .inner .item_wrap .right_box .item {
+
+        height: 177px;
+    }
+
+
     .section-02 .inner .item_wrap .item {
         width: 100%;
     }
